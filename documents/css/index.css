@@ -1,0 +1,14 @@
+.documentList {
+    list-style-type: none;
+    margin-left: -20px;
+}
+
+.documentList li.active {
+    background-color: #f5f5f5;
+}
+
+.documentPanelBody {
+    min-height: 450px;
+    max-height: 450px;
+    overflow-y: auto;
+}
